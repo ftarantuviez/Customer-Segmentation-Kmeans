@@ -1,2 +1,2 @@
 # Customer-Segmentation-Kmeans
-[link to application](https://customer-segmentation-kmeans.herokuapp.com/)
+[Link to application](https://tarantuviez-7.herokuapp.com/)
