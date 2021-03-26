@@ -43,7 +43,7 @@ Clus_dataSet = StandardScaler().fit_transform(X)
 
 st.write(""" 
 ## Data Visualization
-K is equl to three as default. This means that we got three different groups of customers. However you can change this value from left sidebar.
+K is equal to three as default. This means that we got three different groups of customers. However you can change this value from left sidebar.
 
 In the below chart we visualize these groups and how the income has a relation with the age.
 """)
@@ -104,6 +104,6 @@ st.dataframe(pd.DataFrame(pd.Series(predictions), columns=["Cluster"]))
 st.write("""
 ## App repository
 
-[Github](https://github.com/ftarantuviez/)TODO
+[Github](https://github.com/ftarantuviez/Customer-Segmentation-Kmeans)
 """)
 # / This app repository
